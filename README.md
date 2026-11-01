@@ -1,4 +1,4 @@
-                                                    AI-Based Real-Time Driver Monitoring System
+                                            AI-Based Real-Time Driver Monitoring System
                                                     
 📌 Project Overview
 This project is a real-time computer vision application designed to enhance road safety by continuously monitoring driver attentiveness. Built with Python and OpenCV, the system leverages Google's MediaPipe Face Mesh to track 468 3D facial landmarks in real time. By analyzing continuous facial geometry and head poses using NumPy, the system accurately detects physiological signs of fatigue and distraction, immediately alerting the driver via a multi-threaded, zero-latency audio alarm.
